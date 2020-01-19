@@ -6,28 +6,22 @@
     <description>Recent content in Posts on 潘正坤的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 18 Jan 2020 10:56:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 12:09:15 +0800</lastBuildDate>
     
 	<atom:link href="http://panzhengkun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>第三篇博客</title>
-      <link>http://panzhengkun.github.io/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sat, 18 Jan 2020 10:56:58 +0800</pubDate>
+      <title>第一篇博客</title>
+      <link>http://panzhengkun.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 18 Jan 2020 12:09:15 +0800</pubDate>
       
-      <guid>http://panzhengkun.github.io/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>hello 1word! This is my first blog！thanks for teacher&#39;s help 1111111111111111111111</description>
-    </item>
-    
-    <item>
-      <title>开博大吉</title>
-      <link>http://panzhengkun.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
-      <pubDate>Fri, 17 Jan 2020 16:48:35 +0800</pubDate>
-      
-      <guid>http://panzhengkun.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>#大家好2
-我的博客开通了，希望能写出好的文章给大家看。</description>
+      <guid>http://panzhengkun.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>Hello word! this is my first blog,thanks for teacher&#39;s help. 今天学了如何用hugo搭建个人博客，下面我将自己的方法分享给大家！
+第一步：去hugo官网下载hugo，将安装包放在自己创建的文件夹中并将文件目录添加到电脑的path中，使用终端查看hugo版本确认自己添加成功
+第二步：进入hugo官网，点击Quick start快速开始,将step2到step7中的代码全部运行一遍
+第三步：将public目录上传到github，上传完之后在github的settings里打开githubpages
+第四步：每次写博客使用code打开posts目录并创建新的posts，写完博客之后将命令行draft改为false，使用命令行将写的博客上传</description>
     </item>
     
   </channel>
